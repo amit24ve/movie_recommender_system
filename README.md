@@ -24,9 +24,3 @@ The Movie Recommender System uses collaborative filtering to suggest movies to u
 - Movie-Movie Similarity
 - Personalized Movie Recommendations
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/movie_recommender_system.git
